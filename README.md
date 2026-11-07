@@ -27,7 +27,7 @@ Este programa en C++ de consola permite a "La Nueva Escuela" registrar, validar 
 *(Capturas demostrando el comportamiento normal y la correcta validación de errores matemáticos)*
 
 ### 1. Validación de Errores de Rango
-![Errores](./imagenes/error_validacion.png)
+![Errores](./images/error_validacion.png)
 
 ### 2. Flujo de Salida Exitoso
-![Salida Exitosa](./imagenes/salida_exitosa.png)
+![Salida Exitosa](./images/salida_exitosa.png)
